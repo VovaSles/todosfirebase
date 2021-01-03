@@ -1,0 +1,39 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.done{
+    text-decoration: line-through;
+    width: 13vw;
+}
+.inprogress{
+    text-shadow: 2px 2px 5px grey;
+    width: 13vw;
+}
+.item-button{
+    margin-left: 30%;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.list-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 3rem;
+}
+.list-item-text{
+    width: 20vw;
+}
+.bottom-menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-right: 2rem;
+}
