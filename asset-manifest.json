@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/todosfirebase/static/css/main.1750fd86.chunk.css",
+    "main.js": "/todosfirebase/static/js/main.5501a42f.chunk.js",
+    "main.js.map": "/todosfirebase/static/js/main.5501a42f.chunk.js.map",
+    "runtime-main.js": "/todosfirebase/static/js/runtime-main.3d93da0e.js",
+    "runtime-main.js.map": "/todosfirebase/static/js/runtime-main.3d93da0e.js.map",
+    "static/js/2.92f0285c.chunk.js": "/todosfirebase/static/js/2.92f0285c.chunk.js",
+    "static/js/2.92f0285c.chunk.js.map": "/todosfirebase/static/js/2.92f0285c.chunk.js.map",
+    "index.html": "/todosfirebase/index.html",
+    "static/css/main.1750fd86.chunk.css.map": "/todosfirebase/static/css/main.1750fd86.chunk.css.map",
+    "static/js/2.92f0285c.chunk.js.LICENSE.txt": "/todosfirebase/static/js/2.92f0285c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d93da0e.js",
+    "static/js/2.92f0285c.chunk.js",
+    "static/css/main.1750fd86.chunk.css",
+    "static/js/main.5501a42f.chunk.js"
+  ]
+}
